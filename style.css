@@ -1,0 +1,32 @@
+.continer-1{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.continer-1-in{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+}
+.continer-2{
+    width: 100%;
+    height: 500px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.continer-2-in{
+    width: 600px;
+    height: 100px;
+    background-color: aqua;
+}
+.continer-2-in-3{
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+}
